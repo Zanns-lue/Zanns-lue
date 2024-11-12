@@ -1,3 +1,4 @@
+![](_Pixie.gif)
 <h1 align="center">Hi 👋, I'm Razzan Favian Fauzi Wafa' Haibah</h1>
 <h3 align="center">I'm Razzan Favian FWH, A Vocational School student who loves programming and focuses on Data Science and Game Programming</h3>
 
