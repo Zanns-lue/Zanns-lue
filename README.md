@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning programming language like **C, C# And C++**
 
-- 👨‍💻 All of my projects are available at [https://zanns-lue.github.io/Zanns.github.io/](https://zanns-lue.github.io/Zanns.github.io/)
+- 👨‍💻 All of my projects are available at [[https://zanns-lue.github.io/Zanns.github.io/](https://zanns-lue.github.io/Zanns.github.io/](https://zanns-lue.github.io/Razzan-Favian-FWH/))
 
 - 💬 Ask me about **Tailwind Css And HTML, CSS**
 
