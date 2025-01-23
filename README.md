@@ -3,7 +3,7 @@
 <h3 align="center">I'm Razzan Favian FWH, A Vocational School student who loves programming and focuses on Data Science and Game Programming</h3>
 
 
-- 🔭I'm currently studying programming fields such as **PHP,VUE, C#, C++, PYTHON, REACT**
+- 🔭I'm currently studying programming fields such as **PHP, VUE, C#, C++, PYTHON, REACT**
 
 - 🌱 I’m currently learning programming language like **C, C# And C++**
 
