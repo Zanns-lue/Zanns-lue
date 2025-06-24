@@ -5,8 +5,6 @@
 
 - 🔭I'm currently studying programming fields such as **PHP, VUE, C#, C++, PYTHON, REACT**
 
-- 🌱 I’m currently learning programming language like **C, C# And C++**
-
 - 👨‍💻 All of my projects are available at https://zanns-lue.github.io/Razzan-Favian-FWH/
 
 - 💬 Ask me about **Tailwind Css And HTML, CSS**
